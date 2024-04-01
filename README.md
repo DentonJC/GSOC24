@@ -2,25 +2,25 @@ The notebook seems to be too long because I tracked the changes every 5 epochs, 
 
 ## Sample 0
 
-![](0.png)
-![](1.png)
+![](imgs/0.png)
+![](imgs/1.png)
 
 ## Sample 1
 
-![](2.png)
-![](3.png)
+![](imgs/2.png)
+![](imgs/3.png)
 
 ## Sample 2
 
-![](4.png)
-![](5.png)
+![](imgs/4.png)
+![](imgs/5.png)
 
 ## Sample 3
 
-![](6.png)
-![](7.png)
+![](imgs/6.png)
+![](imgs/7.png)
 
 ## Sample 4
 
-![](8.png)
-![](9.png)
+![](imgs/8.png)
+![](imgs/9.png)
